@@ -1,12 +1,16 @@
-## Hi there 👋
+## Ansible Autobott
 
-<!--
+A collection of Ansible playbooks for deploying and managing self-hosted services on Debian-based servers. Built for homelabs and lightweight private clouds.
 
-**Here are some ideas to get you started:**
+### What it does
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **System management & hardening** — Server configuration, user management, monitoring (Prometheus/Grafana), backup automation (Borg/Goback), and Samba network administration.
+- **Web services deployment** — LAMP-like stack (Caddy, PHP-FPM, MariaDB), productivity apps (Mediawiki, Docmost), and Authelia authentication.
+- **Media stack** — Servarr suite for media management.
+- **Gaming** — Minecraft server deployment.
+
+
+
+### Docs
+
+Full documentation is available at **[ansible-autobott.github.io/docs](https://ansible-autobott.github.io/docs/)**.
